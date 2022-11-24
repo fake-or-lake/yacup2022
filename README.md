@@ -1,7 +1,7 @@
 
-# Solution for 11th place of Yandex Cup 2022
+# Solution for 11th place of Yandex Cup 2022 | Gleb Shanshin
 
-The task of the track was to predict tracks of the same artist as the anchor track.
+The task was to predict tracks of the same artist as the anchor track.
 
 My solution is based on ensemble of [TransformerEncoder](https://pytorch.org/docs/stable/generated/torch.nn.TransformerEncoder.html) and [Conformer](https://pytorch.org/audio/stable/generated/torchaudio.models.Conformer.html#torchaudio.models.Conformer).
 
